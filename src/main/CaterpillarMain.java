@@ -3,6 +3,7 @@
  */
 public class CaterpillarMain {
     public static void main(String[] args) {
+        // TODO -- adding dummy todo comment
         System.out.println("Hello, Caterpillar!");
     }
 }
