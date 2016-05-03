@@ -82,7 +82,7 @@
 	<!-- BUILD DEPENDENCIES -->
 	<build>
 		<!-- SOURCE LOCATIONS -->
-		<sourceDirectory>src/core</sourceDirectory>
+		<sourceDirectory>src/main</sourceDirectory>
 		<testSourceDirectory>src/test</testSourceDirectory>
 
 		<!-- PLUGINS FOR MANAGING PLUGINS -->
